@@ -24,7 +24,7 @@
     "@actions/github": "^1.1.0",
     "@octokit/rest": "^16.34.1",
     "debug": "^4.1.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "semver": "^6.3.0",
     "shelljs": "^0.8.3"
   },
